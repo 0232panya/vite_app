@@ -1,0 +1,11 @@
+
+.react-form{
+    border: 1px solid black;
+    padding: 30px 40px;
+    border-radius: 8px;
+}
+
+.react-form h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
